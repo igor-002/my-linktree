@@ -14,9 +14,4 @@
 |-- style.css
 |-- animationLoading.js
 |-- /img
-    |-- user-perfil.png
-    |-- smile-icon.png
-    |-- web-black-icon.png
-    |-- web-white-icon.png
-    |-- tread-skateboard.jpg
 ```
